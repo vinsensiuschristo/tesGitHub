@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Ongkir</string>
+
+        <string-array name="dariKota">
+            <item>dariKota</item>
+            <item>dariKota</item>
+            <item>dariKota1</item>
+            <item>dariKota2</item>
+            <item>dariKota 3</item>
+        </string-array>
+
+    <string-array name="dariProvinsi">
+        <item>dariProvinsi</item>
+        <item>dariProvinsi</item>
+        <item>dariProvinsi1</item>
+        <item>dariProvinsi2</item>
+        <item>dariProvinsi 3</item>
+    </string-array>
+
+    <string-array name="keKota">
+        <item>keKota</item>
+        <item>keKota</item>
+        <item>keKota1</item>
+        <item>keKota2</item>
+        <item>keKota 3</item>
+    </string-array>
+
+    <string-array name="keProvinsi">
+        <item>keProvinsi</item>
+        <item>keProvinsi</item>
+        <item>keProvinsi1</item>
+        <item>keProvinsi2</item>
+        <item>keProvinsi 3</item>
+    </string-array>
+
+
+</resources>
+
+
+
+
+
+masukin coding ini di  res-> values ada strings.xml di situ copas ini ke situ
